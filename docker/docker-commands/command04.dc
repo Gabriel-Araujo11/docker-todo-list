@@ -1,0 +1,2 @@
+docker container exec 01container cat /etc/os-release
+#http://www.macoratti.net/19/04/docker_obash1.htm
