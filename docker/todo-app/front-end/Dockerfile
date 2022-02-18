@@ -1,9 +1,9 @@
 FROM node:14-alpine
 
-WORKDIR /frontend
+WORKDIR /front-end
+EXPOSE 3000
 COPY . .
 ADD node_modules.tar.gz .
 ENTRYPOINT [ "npm", "start" ]
 
-EXPOSE 3000
 
