@@ -21,7 +21,5 @@ _Neste projeto:_
     * Desafio 11 - Gerei uma build a partir do Dockerfile dos testes do todo-app nomeando a imagem para todotests;
     * Desafio 12 - Subi uma orquestração em segundo plano com o docker-compose de forma que backend, frontend e tests consigam se comunicar;
     
-    ---
     
-    _Projeto feito na Escola de Programação da Trybe_
-    
+    Projeto feito na Escola de Programação da Trybe   
