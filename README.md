@@ -7,7 +7,7 @@ _Neste projeto:_
   * Criei um contêiner Docker para uma aplicação de testes; 
   * Orquestrei os três contêiners utilizando Docker Compose;
   
-  **Descrição dos requisitos (files):**
+  Descrição dos requisitos (files):
     - Desafio 01 - Criei um novo container de modo interativo sem roda-lo nomeando-o como 01container e utilizando a imagem alpine usando a versão 3.12;
     - Desafio 02 - Iniciei o container "01container";
     - Desafio 03 - Listei os containers filtrando pelo nome "01container";
