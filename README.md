@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Docker Todo List!
 
-_Neste projeto:
+_Neste projeto:_
   * Usei comandos dockers no CLI - Interface de linha de comando;
   * Criei um contêiner Docker para uma aplicação de front-end;
   * Criei um contêiner Docker para uma aplicação de back-end;
